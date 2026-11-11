@@ -1,0 +1,7 @@
+{
+  "/(dashboard)/student/sprint-board/page": "app/(dashboard)/student/sprint-board/page.js",
+  "/(dashboard)/student/practice-tests/page": "app/(dashboard)/student/practice-tests/page.js",
+  "/(dashboard)/trainer/page": "app/(dashboard)/trainer/page.js",
+  "/(dashboard)/trainer/live-classroom/page": "app/(dashboard)/trainer/live-classroom/page.js",
+  "/(dashboard)/parent/page": "app/(dashboard)/parent/page.js"
+}
